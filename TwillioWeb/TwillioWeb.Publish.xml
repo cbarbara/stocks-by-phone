@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\chris\dev\Twilio" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="07/31/2011 14:34:18" />
+    <file relUrl="PhoneCallMenu.xml" publishTime="07/31/2011 15:07:25" />
+    <file relUrl="bin/TwillioWeb.pdb" publishTime="07/31/2011 15:09:18" />
+    <file relUrl="ReplyToPhone.aspx" publishTime="07/31/2011 14:11:08" />
+    <file relUrl="ReplyToSms.aspx" publishTime="07/31/2011 13:58:56" />
+    <file relUrl="bin/TwillioWeb.XmlSerializers.dll" publishTime="07/31/2011 15:09:19" />
+    <file relUrl="Global.asax" publishTime="07/31/2011 13:55:17" />
+    <file relUrl="bin/Twilio.Twiml.dll" publishTime="07/31/2011 11:16:53" />
+    <file relUrl="bin/Twilio.Api.dll" publishTime="07/31/2011 11:43:20" />
+    <file relUrl="bin/TwillioWeb.dll" publishTime="07/31/2011 15:09:18" />
+  </publishProfile>
+</publishData>

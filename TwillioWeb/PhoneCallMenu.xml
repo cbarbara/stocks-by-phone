@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Response>
+	<Gather method="POST" finishOnKey="#" timeout="60" action="ReplyToPhone.aspx">
+		<Say voice="woman">Please enter your stock symbols followed by the pound or hash sign. Use the star to separate multiple symbols. Hang up to end the call.</Say>
+	</Gather>
+	<Say>We didn't receive any input. Goodbye!</Say>
+</Response>
